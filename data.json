@@ -1,1 +1,14 @@
-...
+[
+  {
+    content: 'HTML is easy',
+    date: new Date('2019-05-23T17:30:31.098Z'),
+  },
+  {
+    content: 'Browser can execute only Javascript',
+    date: new Date('2019-05-23T18:39:34.091Z'),
+  },
+  {
+    content: 'Most important methods of HTTP-protocol are GET and POST',
+    date: new Date('2019-05-23T19:20:14.298Z'),
+  },
+]
